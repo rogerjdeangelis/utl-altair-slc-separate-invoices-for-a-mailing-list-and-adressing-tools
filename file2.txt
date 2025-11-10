@@ -1,0 +1,55 @@
+                                                                      Page:    1
+                                           Note:      XXXXXXXXXXXXXX  07/23/2021
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     XXXXXXXXX
+                     XXXXXXXXXXXXX
+                     XXXXXXXXXXXXXXXX
+                     XXXXXXXXXXXXXXXXX
+ 
+ 
+ 
+              Statement of (40) OVERDRAFT PROTECTION CONSUMER Note
+                          From 06/23/21 Thru 07/23/21
+================================================================================
+                         -----Payment Split-----     Transaction       Principal
+  Date   Description     Principal      Interest        Amount          Balance
+================================================================================
+ 
+06/23/21 Beginning Balance                                                   .00
+07/06/21 Regular Payment                    1.01            1.01
+07/19/21 LINE OF CR ADVANCE                               300.00          300.00
+07/20/21 LINE OF CR ADVANCE                               200.00          500.00
+ 
+- - - - - - -  F i n a n c e   C h a r g e   C a l c u l a t i o n  - - - - - -
+  From      ** Annual **   Daily Periodic                             Accrued
+  Date     Percentage Rate      Rate              Principal Days  Finance Charge
+06/23/21      18.000000     .00049315                   .00   13            .00
+07/06/21      18.000000     .00049315                   .00   13            .00
+07/19/21      18.000000     .00049315                300.00    1            .14
+07/20/21      18.000000     .00049315                500.00    4            .98
+ 
+- - - - - - - - - - - - S t a t e m e n t   S u m m a r y - - - - - - - - - - -
+ Principal Advances:             500.00  Principal Paid:                    .00
+ Finance Charges Paid:             1.01
+ 
+                 Finance Charge Paid 2021:                 1.01
+ 
+~BFOOT
+V:~~
+2:00001~3:0~5:XXXXXXXXXXXXXX~8:01007~9:000~~
+~AFOLDER
+1:154~4:NOTE XXXXXXXXXXXXXX~6:XXX-XX-XXXX~7:XXXXXXXXXXXXXXX~~
+1:154~4:NOTE XXXXXXXXXXXXXX~6:XXX_XX_XXXX~7:XXXXXXXXXXXXXX~~
+~EFOOT
+ 
+ 
