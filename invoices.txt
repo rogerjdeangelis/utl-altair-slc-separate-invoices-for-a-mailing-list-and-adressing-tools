@@ -1,0 +1,155 @@
+                                                                      Page:    1
+                                           Note:      XXXXXXXXXXXXXX  07/23/2021
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     XXXXXXXXXXX
+                     XXXXXXXXXXXXXX
+                     XXXXXXXXXXXXXXXXXXXXXXX
+ 
+ 
+ 
+              Statement of (40) OVERDRAFT PROTECTION CONSUMER Note
+                          From 06/23/21 Thru 07/23/21
+================================================================================
+                         -----Payment Split-----     Transaction       Principal
+  Date   Description     Principal      Interest        Amount          Balance
+================================================================================
+ 
+06/23/21 Beginning Balance                                                482.09
+07/15/21 Regular Payment     18.10          6.90           25.00          463.99
+ 
+- - - - - - -  F i n a n c e   C h a r g e   C a l c u l a t i o n  - - - - - -
+  From      ** Annual **   Daily Periodic                             Accrued
+  Date     Percentage Rate      Rate              Principal Days  Finance Charge
+06/23/21      18.000000     .00049315                482.09   22           5.23
+07/15/21      18.000000     .00049315                463.99    9           2.05
+ 
+- - - - - - - - - - - - S t a t e m e n t   S u m m a r y - - - - - - - - - - -
+ Principal Advances:                .00  Principal Paid:                  18.10
+ Finance Charges Paid:             6.90
+ 
+                 Finance Charge Paid 2021:                48.83
+ 
+~BFOOT
+V:~~
+2:00001~3:0~5:XXXXXXXXX~8:01007~9:000~~
+~AFOLDER
+1:154~4:NOTE XXXXXXXXXXX~6:XXX-XX-XXXX~7:XXXXXXXXXXX~~
+~EFOOT
+ 
+ 
+                                                                      Page:    1
+                                           Note:      XXXXXXXXXXXXXX  07/23/2021
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     XXXXXXXXX
+                     XXXXXXXXXXXXX
+                     XXXXXXXXXXXXXXXX
+                     XXXXXXXXXXXXXXXXX
+ 
+ 
+ 
+              Statement of (40) OVERDRAFT PROTECTION CONSUMER Note
+                          From 06/23/21 Thru 07/23/21
+================================================================================
+                         -----Payment Split-----     Transaction       Principal
+  Date   Description     Principal      Interest        Amount          Balance
+================================================================================
+ 
+06/23/21 Beginning Balance                                                   .00
+07/06/21 Regular Payment                    1.01            1.01
+07/19/21 LINE OF CR ADVANCE                               300.00          300.00
+07/20/21 LINE OF CR ADVANCE                               200.00          500.00
+ 
+- - - - - - -  F i n a n c e   C h a r g e   C a l c u l a t i o n  - - - - - -
+  From      ** Annual **   Daily Periodic                             Accrued
+  Date     Percentage Rate      Rate              Principal Days  Finance Charge
+06/23/21      18.000000     .00049315                   .00   13            .00
+07/06/21      18.000000     .00049315                   .00   13            .00
+07/19/21      18.000000     .00049315                300.00    1            .14
+07/20/21      18.000000     .00049315                500.00    4            .98
+ 
+- - - - - - - - - - - - S t a t e m e n t   S u m m a r y - - - - - - - - - - -
+ Principal Advances:             500.00  Principal Paid:                    .00
+ Finance Charges Paid:             1.01
+ 
+                 Finance Charge Paid 2021:                 1.01
+ 
+~BFOOT
+V:~~
+2:00001~3:0~5:XXXXXXXXXXXXXX~8:01007~9:000~~
+~AFOLDER
+1:154~4:NOTE XXXXXXXXXXXXXX~6:XXX-XX-XXXX~7:XXXXXXXXXXXXXXX~~
+1:154~4:NOTE XXXXXXXXXXXXXX~6:XXX_XX_XXXX~7:XXXXXXXXXXXXXX~~
+~EFOOT
+ 
+ 
+                                                                      Page:    1
+                                           Note:        XXXXXXXXXXXX  07/23/2021
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     XXXXXXXXXX
+                     XXXXXXXXXXXXX
+                     XXXXXXXXXXXXXXXXXX
+ 
+ 
+ 
+               Statement of (26) CONSUMER MINUTE LENDER LOC Note
+                          From 06/23/21 Thru 07/23/21
+================================================================================
+                         -----Payment Split-----     Transaction       Principal
+  Date   Description     Principal      Interest        Amount          Balance
+================================================================================
+ 
+06/23/21 Beginning Balance                                              8,390.51
+07/15/21 Regular Payment    425.92         74.08          500.00        7,964.59
+ 
+- - - - - - -  F i n a n c e   C h a r g e   C a l c u l a t i o n  - - - - - -
+  From      ** Annual **   Daily Periodic                             Accrued
+  Date     Percentage Rate      Rate              Principal Days  Finance Charge
+06/23/21      10.000000     .00027777              8,390.51   22          51.27
+07/15/21      10.000000     .00027777              7,964.59    9          19.91
+ 
+- - - - - - - - - - - - S t a t e m e n t   S u m m a r y - - - - - - - - - - -
+ Principal Advances:                .00  Principal Paid:                 425.92
+ Finance Charges Paid:            74.08
+ 
+                 Finance Charge Paid 2021:               503.09
+ 
+~BFOOT
+V:~~
+2:00002~3:0~5:XXXXXXXXXXX~8:00121~9:000~~
+~AFOLDER
+1:154~4:NOTE XXXXXXXXXXXXX~6:XXX-XX-XXXX~7:XXXXXXXXXXXXXX~~
+~EFOOT
+ 
+ 
